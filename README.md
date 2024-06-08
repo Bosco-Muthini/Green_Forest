@@ -2,7 +2,7 @@
 This is a project set to answer a problem of how can we close the gap between planted seedlings and the mature trees. Many people forget that after planting a seedling the goal is to see the tree matured. With the project, farmers and groups practicing trees planting can update data of tree during planting and after planting through timely update.
 
 
-**1.	Introduction****
+**1.	Introduction**
 This is a web application system which helps farmers and any group which practice trees planting activities to have timely update on the planted number of trees. Through trees information, the farmer or groups can track the survival of the trees and replace those die in between the growth process. In the current world, people plant the trees but forget that we plant trees to grow and the growth is the one important. 
 There is a big gap between trees planted and grown trees as per the initial number. Keeping records and statistics of the trees in hardcopy it’s risk as some aren’t easily accessible more so once one moves to another place it’s bulky carrying hardcopy as well as man can easily forget. These problems can be solved through this green forest system.
 With the system farmers and groups practicing trees planting can upload the data of the trees planted, can update the surviving trees after a period of time, can see a pie chart of the types of trees planted and the number of them, can print both pdf and csv file of the information on planted trees, can market seedlings by uploading, can view upcoming agricultural events uploaded in the system, can log in, can register and can logout.
